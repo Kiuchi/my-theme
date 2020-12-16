@@ -1,7 +1,7 @@
 {
   "name": "my-theme",
   "displayName": "My Theme",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "publisher": "kiuchi",
   "description": "For my editor.",
   "engines": {
@@ -10,6 +10,10 @@
   "galleryBanner": {
     "color": "#353042",
     "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kiuchi/my-theme"
   },
   "contributes": {
     "themes": [
