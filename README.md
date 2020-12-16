@@ -1,3 +1,3 @@
-# Kawaii Theme
+# My Theme
 
 For my theme.

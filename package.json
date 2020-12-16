@@ -1,18 +1,23 @@
 {
   "name": "my-theme",
   "displayName": "My Theme",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "publisher": "kiuchi",
   "description": "For my editor.",
   "engines": {
     "vscode": "*"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/diff001a/KawaiiTheme"
-  },
   "galleryBanner": {
     "color": "#353042",
     "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kiuchi Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark.json"
+      }
+    ]
   }
 }
