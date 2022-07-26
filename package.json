@@ -1,7 +1,7 @@
 {
   "name": "my-theme",
   "displayName": "My Theme",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "publisher": "kiuchi",
   "description": "For my editor.",
   "engines": {
